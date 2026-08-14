@@ -1,0 +1,202 @@
+{
+  "items": [
+    {
+      "description": "Please read CONTRIBUTING if you wish to add tools or resources.",
+      "items": [],
+      "title": "↑ Contributing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Web Attack Payloads",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-05-15T21:54:24Z",
+            "owner": "foospidy",
+            "repo": "payloads",
+            "stars": 3977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EMBER",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-22T20:36:57Z",
+            "owner": "elastic",
+            "repo": "ember",
+            "stars": 1168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WAF Malicious Queries Data Sets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-05-15T00:24:15Z",
+            "owner": "faizann24",
+            "repo": "Fwaf-Machine-Learning-driven-Web-Application-Firewall",
+            "stars": 435
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malware Training Data Sets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-03T20:58:37Z",
+            "owner": "marcoramilli",
+            "repo": "MalwareTrainingSets",
+            "stars": 247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSL-KDD Data Sets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2015-07-30T23:10:52Z",
+            "owner": "Jehuty4949",
+            "repo": "NSL_KDD",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aktaion Data Sets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-03-26T02:10:29Z",
+            "owner": "jzadeh",
+            "repo": "aktaion",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Probing / Port Scan - Dataset",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-20T03:40:34Z",
+            "owner": "gubertoli",
+            "repo": "ProbingDataset",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "↑ Datasets"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Source code about machine learning and security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-07T08:04:41Z",
+            "owner": "13o-bbr-bbq",
+            "repo": "machine_learning_security",
+            "stars": 2089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Convolutional neural network for analyzing pentest screenshots",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-08T20:43:54Z",
+            "owner": "BishopFox",
+            "repo": "eyeballer",
+            "stars": 1290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Machine learning tool for classification of packets by looking at packet headers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-02-19T05:22:39Z",
+            "owner": "deepfence",
+            "repo": "FlowMeter",
+            "stars": 1192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T05:16:53Z",
+            "owner": "mandiant",
+            "repo": "stringsifter",
+            "stars": 759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Source code for Mastering Machine Learning for Penetration Testing",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-30T09:45:29Z",
+            "owner": "PacktPublishing",
+            "repo": "Mastering-Machine-Learning-for-Penetration-Testing",
+            "stars": 372
+          }
+        }
+      ],
+      "title": "↑ Miscellaneous"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T04:41:27.968Z",
+    "original_repository": "jivoi/awesome-ml-for-cybersecurity",
+    "original_repository_sha": "8ff611d1cf4e93b57a58d16724a5df95a9410519",
+    "enhanced_repository": "enhansome/enhansome-ml-for-cybersecurity",
+    "enhanced_repository_description": null,
+    "title": "Awesome Machine Learning for Cyber Security with stars"
+  }
+}
