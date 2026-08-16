@@ -1,6 +1,6 @@
 # Awesome Machine Learning for Cyber Security with stars
 
-[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,278 | 🐛 33 | 📅 2024-08-19
+[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,281 | 🐛 33 | 📅 2024-08-19
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
@@ -198,7 +198,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer) ⭐ 1,290 | 🐛 9 | 🌐 Python | 📅 2026-03-08
 * [Machine learning tool for classification of packets by looking at packet headers](https://github.com/deepfence/FlowMeter) ⚠️ Archived
 * [StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter) ⭐ 759 | 🐛 12 | 🌐 Python | 📅 2026-07-24
-* [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing) ⭐ 372 | 🐛 2 | 🌐 Python | 📅 2023-01-30
+* [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing) ⭐ 371 | 🐛 2 | 🌐 Python | 📅 2023-01-30
 * [System predicts 85 percent of cyber-attacks using input from human experts](http://news.mit.edu/2016/ai-system-predicts-85-percent-cyber-attacks-using-input-human-experts-0418)
 * [A list of open source projects in cyber security using machine learning](http://www.mlsec.org/)
 * [Big Data and Data Science for Security and Fraud Detection](http://www.kdnuggets.com/2015/12/big-data-science-security-fraud-detection.html)
@@ -211,4 +211,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
