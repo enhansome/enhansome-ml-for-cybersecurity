@@ -19,7 +19,7 @@
             "last_commit": "2023-05-15T21:54:24Z",
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 3978
+            "stars": 3979
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-05-07T08:04:41Z",
             "owner": "13o-bbr-bbq",
             "repo": "machine_learning_security",
-            "stars": 2089
+            "stars": 2088
           }
         },
         {
@@ -192,7 +192,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:39:19.506Z",
+    "last_updated": "2026-08-17T03:40:02.001Z",
     "original_repository": "jivoi/awesome-ml-for-cybersecurity",
     "original_repository_sha": "8ff611d1cf4e93b57a58d16724a5df95a9410519",
     "enhanced_repository": "enhansome/enhansome-ml-for-cybersecurity",
