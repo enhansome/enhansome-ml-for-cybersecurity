@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Please read CONTRIBUTING if you wish to add tools or resources.",
-      "items": [],
-      "title": "↑ Contributing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52228925,
             "language": "Shell",
             "last_commit": "2023-05-15T21:54:24Z",
             "owner": "foospidy",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 129132478,
             "language": "Jupyter Notebook",
             "last_commit": "2024-11-22T20:36:57Z",
             "owner": "elastic",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81567959,
             "language": "Python",
             "last_commit": "2017-05-15T00:24:15Z",
             "owner": "faizann24",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76191189,
             "language": "Python",
             "last_commit": "2021-01-03T20:58:37Z",
             "owner": "marcoramilli",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39976146,
             "language": null,
             "last_commit": "2015-07-30T23:10:52Z",
             "owner": "Jehuty4949",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62543288,
             "language": "Python",
             "last_commit": "2019-03-26T02:10:29Z",
             "owner": "jzadeh",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 213282303,
             "language": "Jupyter Notebook",
             "last_commit": "2026-05-20T03:40:34Z",
             "owner": "gubertoli",
@@ -110,7 +112,7 @@
       "title": "↑ Datasets"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -119,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89960611,
             "language": "Python",
             "last_commit": "2026-05-07T08:04:41Z",
             "owner": "13o-bbr-bbq",
@@ -133,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 174233691,
             "language": "Python",
             "last_commit": "2026-03-08T20:43:54Z",
             "owner": "BishopFox",
@@ -147,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 397341429,
             "language": "Go",
             "last_commit": "2025-02-19T05:22:39Z",
             "owner": "deepfence",
@@ -161,11 +166,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206565210,
             "language": "Python",
             "last_commit": "2026-07-24T05:16:53Z",
             "owner": "mandiant",
             "repo": "stringsifter",
-            "stars": 759
+            "stars": 760
           }
         },
         {
@@ -175,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131269249,
             "language": "Python",
             "last_commit": "2023-01-30T09:45:29Z",
             "owner": "PacktPublishing",
@@ -184,16 +191,12 @@
         }
       ],
       "title": "↑ Miscellaneous"
-    },
-    {
-      "description": "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International license.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:37:24.756Z",
+    "last_updated": "2026-08-19T12:44:00.196Z",
     "original_repository": "jivoi/awesome-ml-for-cybersecurity",
+    "original_repository_id": 76955905,
     "original_repository_sha": "8ff611d1cf4e93b57a58d16724a5df95a9410519",
     "enhanced_repository": "enhansome/enhansome-ml-for-cybersecurity",
     "enhanced_repository_description": null,
