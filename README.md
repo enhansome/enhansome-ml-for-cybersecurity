@@ -1,6 +1,6 @@
 # Awesome Machine Learning for Cyber Security with stars
 
-[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,301 | 🐛 33 | 📅 2024-08-19
+[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,307 | 🐛 33 | 📅 2024-08-19
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
@@ -103,7 +103,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [Machine Learning and Data Mining for Computer Security](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 * [Network Anomaly Detection: A Machine Learning Perspective](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 * [Machine Learning and Security: Protecting Systems with Data and Algorithms](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
-* [Introduction To Artificial Intelligence For Security Professionals](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf) ⭐ 155 | 🐛 5 | 🌐 Python | 📅 2019-01-24
+* [Introduction To Artificial Intelligence For Security Professionals](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf) ⭐ 154 | 🐛 5 | 🌐 Python | 📅 2019-01-24
 * [Mastering Machine Learning for Penetration Testing](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
 * [Malware Data Science: Attack Detection and Attribution](https://nostarch.com/malwaredatascience)
 
@@ -211,4 +211,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
