@@ -15,7 +15,7 @@
             "last_commit": "2023-05-15T21:54:24Z",
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 3978
+            "stars": 3979
           }
         },
         {
@@ -116,6 +116,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Introduction To Artificial Intelligence For Security Professionals",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99758261,
+            "language": "Python",
+            "last_commit": "2019-01-24T23:43:42Z",
+            "owner": "cylance",
+            "repo": "IntroductionToMachineLearningForSecurityPros",
+            "stars": 154
+          }
+        }
+      ],
+      "title": "↑ Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebShells Detection by Machine Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108221657,
+            "language": "Python",
+            "last_commit": "2017-10-26T09:18:06Z",
+            "owner": "lcatro",
+            "repo": "WebShell-Detect-By-Machine-Learning",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "↑ Tutorials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Source code about machine learning and security",
           "description": null,
           "children": [],
@@ -194,7 +236,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:44:10.152Z",
+    "last_updated": "2026-08-24T13:50:58.706Z",
     "original_repository": "jivoi/awesome-ml-for-cybersecurity",
     "original_repository_id": 76955905,
     "original_repository_sha": "8ff611d1cf4e93b57a58d16724a5df95a9410519",

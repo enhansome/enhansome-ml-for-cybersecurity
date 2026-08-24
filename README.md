@@ -1,6 +1,6 @@
 # Awesome Machine Learning for Cyber Security with stars
 
-[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,316 | 🐛 33 | 📅 2024-08-19
+[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,318 | 🐛 33 | 📅 2024-08-19
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
@@ -20,7 +20,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Datasets
 
-* [Web Attack Payloads](https://github.com/foospidy/payloads) ⭐ 3,978 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
+* [Web Attack Payloads](https://github.com/foospidy/payloads) ⭐ 3,979 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 * [EMBER](https://github.com/endgameinc/ember) ⚠️ Archived
 * [WAF Malicious Queries Data Sets](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall) ⭐ 435 | 🐛 5 | 🌐 Python | 📅 2017-05-15
 * [Malware Training Data Sets](https://github.com/marcoramilli/MalwareTrainingSets) ⭐ 245 | 🐛 2 | 🌐 Python | 📅 2021-01-03
@@ -99,11 +99,11 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Books
 
+* [Introduction To Artificial Intelligence For Security Professionals](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf) ⭐ 154 | 🐛 5 | 🌐 Python | 📅 2019-01-24
 * [Data Mining and Machine Learning in Cybersecurity](https://www.amazon.com/Data-Mining-Machine-Learning-Cybersecurity/dp/1439839425)
 * [Machine Learning and Data Mining for Computer Security](https://www.amazon.com/Machine-Learning-Mining-Computer-Security/dp/184628029X)
 * [Network Anomaly Detection: A Machine Learning Perspective](https://www.amazon.com/Network-Anomaly-Detection-Learning-Perspective/dp/1466582081)
 * [Machine Learning and Security: Protecting Systems with Data and Algorithms](https://www.amazon.com/Machine-Learning-Security-Protecting-Algorithms/dp/1491979909)
-* [Introduction To Artificial Intelligence For Security Professionals](https://github.com/cylance/IntroductionToMachineLearningForSecurityPros/blob/master/IntroductionToArtificialIntelligenceForSecurityProfessionals_Cylance.pdf) ⭐ 154 | 🐛 5 | 🌐 Python | 📅 2019-01-24
 * [Mastering Machine Learning for Penetration Testing](https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing)
 * [Malware Data Science: Attack Detection and Attribution](https://nostarch.com/malwaredatascience)
 
@@ -158,6 +158,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Tutorials
 
+* [WebShells Detection by Machine Learning](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2017-10-26
 * [Machine Learning based Password Strength Classification](http://web.archive.org/web/20170606022743/http://fsecurify.com/machine-learning-based-password-strength-checking/)
 * [Using Machine Learning to Classify Packet Captures](https://medium.com/@siddharthsatpathy.ss/introducing-flowmeter-97e0507862b6)
 * [Using Machine Learning to Detect Malicious URLs](http://web.archive.org/web/20170514093208/http://fsecurify.com/using-machine-learning-detect-malicious-urls/)
@@ -171,7 +172,6 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 * [ShadowBrokers Leak: A Machine Learning Approach](https://marcoramilli.blogspot.ru/2017/04/shadowbrokers-leak-machine-learning.html)
 * [Practical Machine Learning in Infosec - Virtualbox Image and Stuff](https://docs.google.com/document/d/1v4plS1EhLBfjaz-9GHBqspTH7vnrJfqLrLjeP9k9i9A/edit)
 * [A Machine-Learning Toolkit for Large-scale eCrime Forensics](http://blog.trendmicro.com/trendlabs-security-intelligence/defplorex-machine-learning-toolkit-large-scale-ecrime-forensics/)
-* [WebShells Detection by Machine Learning](https://github.com/lcatro/WebShell-Detect-By-Machine-Learning) ⭐ 128 | 🐛 1 | 🌐 Python | 📅 2017-10-26
 * [Building Machine Learning Models for the SOC](https://www.fireeye.com/blog/threat-research/2018/06/build-machine-learning-models-for-the-soc.html)
 * [Detecting Web Attacks With Recurrent Neural Networks](https://aivillage.org/posts/detecting-web-attacks-rnn/)
 * [Machine Learning for Red Teams, Part 1](https://silentbreaksecurity.com/machine-learning-for-red-teams-part-1/)
