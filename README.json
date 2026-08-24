@@ -171,7 +171,7 @@
             "last_commit": "2026-07-24T05:16:53Z",
             "owner": "mandiant",
             "repo": "stringsifter",
-            "stars": 761
+            "stars": 762
           }
         },
         {
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T03:40:58.132Z",
+    "last_updated": "2026-08-24T03:44:10.152Z",
     "original_repository": "jivoi/awesome-ml-for-cybersecurity",
     "original_repository_id": 76955905,
     "original_repository_sha": "8ff611d1cf4e93b57a58d16724a5df95a9410519",
