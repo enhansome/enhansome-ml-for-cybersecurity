@@ -15,7 +15,7 @@
             "last_commit": "2023-05-15T21:54:24Z",
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 3979
+            "stars": 3980
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2021-01-03T20:58:37Z",
             "owner": "marcoramilli",
             "repo": "MalwareTrainingSets",
-            "stars": 245
+            "stars": 246
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2026-05-07T08:04:41Z",
             "owner": "13o-bbr-bbq",
             "repo": "machine_learning_security",
-            "stars": 2088
+            "stars": 2089
           }
         },
         {
@@ -236,9 +236,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T03:44:01.092Z",
-    "original_repository": "jivoi/awesome-ml-for-cybersecurity",
-    "original_repository_id": 76955905,
+    "last_updated": "2026-08-27T11:54:53.126Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 76955905,
+      "language": null,
+      "last_commit": "2024-08-19T02:14:10Z",
+      "owner": "jivoi",
+      "repo": "awesome-ml-for-cybersecurity",
+      "stars": 9327
+    },
     "original_repository_sha": "8ff611d1cf4e93b57a58d16724a5df95a9410519",
     "enhanced_repository": "enhansome/enhansome-ml-for-cybersecurity",
     "enhanced_repository_description": null,
