@@ -16,7 +16,8 @@
             "owner": "foospidy",
             "repo": "payloads",
             "stars": 3980
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "elastic",
             "repo": "ember",
             "stars": 1169
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "faizann24",
             "repo": "Fwaf-Machine-Learning-driven-Web-Application-Firewall",
             "stars": 435
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2021-01-03T20:58:37Z",
             "owner": "marcoramilli",
             "repo": "MalwareTrainingSets",
-            "stars": 246
-          }
+            "stars": 247
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "Jehuty4949",
             "repo": "NSL_KDD",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "jzadeh",
             "repo": "aktaion",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "gubertoli",
             "repo": "ProbingDataset",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         }
       ],
       "title": "↑ Datasets"
@@ -127,7 +134,8 @@
             "owner": "cylance",
             "repo": "IntroductionToMachineLearningForSecurityPros",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         }
       ],
       "title": "↑ Books"
@@ -148,7 +156,8 @@
             "owner": "lcatro",
             "repo": "WebShell-Detect-By-Machine-Learning",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         }
       ],
       "title": "↑ Tutorials"
@@ -169,7 +178,8 @@
             "owner": "13o-bbr-bbq",
             "repo": "machine_learning_security",
             "stars": 2090
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "BishopFox",
             "repo": "eyeballer",
             "stars": 1290
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "deepfence",
             "repo": "FlowMeter",
             "stars": 1193
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "mandiant",
             "repo": "stringsifter",
             "stars": 762
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         },
         {
           "node_type": "item",
@@ -229,14 +242,15 @@
             "owner": "PacktPublishing",
             "repo": "Mastering-Machine-Learning-for-Penetration-Testing",
             "stars": 371
-          }
+          },
+          "first_seen": "2026-08-28T14:41:41.304Z"
         }
       ],
       "title": "↑ Miscellaneous"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T13:18:17.693Z",
+    "last_updated": "2026-08-28T14:41:41.304Z",
     "original_repository_info": {
       "archived": false,
       "id": 76955905,
@@ -244,7 +258,7 @@
       "last_commit": "2024-08-19T02:14:10Z",
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9327
+      "stars": 9328
     },
     "original_repository_sha": "8ff611d1cf4e93b57a58d16724a5df95a9410519",
     "enhanced_repository": "enhansome/enhansome-ml-for-cybersecurity",
