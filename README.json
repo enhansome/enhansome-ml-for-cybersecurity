@@ -10,12 +10,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Git All the Payloads! A collection of web attack payloads.",
+            "homepage": null,
             "id": 52228925,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2023-05-15T21:54:24Z",
+            "open_issues": 4,
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 3980
+            "stars": 3980,
+            "topics": [
+              "appsec",
+              "cybersecurity",
+              "hacking",
+              "passwords",
+              "payload",
+              "payloads",
+              "pentest",
+              "sqli",
+              "web-attack-payloads",
+              "xss"
+            ]
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -26,12 +42,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Elastic Malware Benchmark for Empowering Researchers",
+            "homepage": null,
             "id": 129132478,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-22T20:36:57Z",
+            "open_issues": 40,
             "owner": "elastic",
             "repo": "ember",
-            "stars": 1169
+            "stars": 1169,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -42,12 +63,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Machine learning driven web application firewall to detect malicious queries with high accuracy.",
+            "homepage": "http://fsecurify.com/fwaf-machine-learning-driven-web-application-firewall/",
             "id": 81567959,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-05-15T00:24:15Z",
+            "open_issues": 5,
             "owner": "faizann24",
             "repo": "Fwaf-Machine-Learning-driven-Web-Application-Firewall",
-            "stars": 435
+            "stars": 435,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -58,12 +84,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Malware Training Datasets for Machine Learning",
+            "homepage": null,
             "id": 76191189,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-03T20:58:37Z",
+            "open_issues": 2,
             "owner": "marcoramilli",
             "repo": "MalwareTrainingSets",
-            "stars": 247
+            "stars": 247,
+            "topics": [
+              "machine-learning",
+              "malware",
+              "malware-analysis",
+              "training-set"
+            ]
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -74,12 +110,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NSL-KDD Dataset",
+            "homepage": null,
             "id": 39976146,
             "language": null,
+            "license": null,
             "last_commit": "2015-07-30T23:10:52Z",
+            "open_issues": 3,
             "owner": "Jehuty4949",
             "repo": "NSL_KDD",
-            "stars": 214
+            "stars": 214,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -90,12 +131,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aktaion: Open Source ML tool and data samples for Exploit and Phishing Research",
+            "homepage": null,
             "id": 62543288,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-26T02:10:29Z",
+            "open_issues": 0,
             "owner": "jzadeh",
             "repo": "aktaion",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -106,12 +152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dataset of Probing Attacks (Port Scan) performed with nmap, unicornscan, hping3, zmap and masscan",
+            "homepage": null,
             "id": 213282303,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-05-20T03:40:34Z",
+            "open_issues": 4,
             "owner": "gubertoli",
             "repo": "ProbingDataset",
-            "stars": 32
+            "stars": 32,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         }
@@ -128,12 +179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example code for our book Introduction to Artificial Intelligence for Security Professionals",
+            "homepage": null,
             "id": 99758261,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-01-24T23:43:42Z",
+            "open_issues": 5,
             "owner": "cylance",
             "repo": "IntroductionToMachineLearningForSecurityPros",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         }
@@ -150,12 +206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "使用机器学习识别WebShell",
+            "homepage": null,
             "id": 108221657,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-10-26T09:18:06Z",
+            "open_issues": 1,
             "owner": "lcatro",
             "repo": "WebShell-Detect-By-Machine-Learning",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         }
@@ -172,12 +233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source code about machine learning and security.",
+            "homepage": null,
             "id": 89960611,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-05-07T08:04:41Z",
+            "open_issues": 112,
             "owner": "13o-bbr-bbq",
             "repo": "machine_learning_security",
-            "stars": 2090
+            "stars": 2090,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -188,12 +254,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convolutional neural network for analyzing pentest screenshots",
+            "homepage": null,
             "id": 174233691,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-08T20:43:54Z",
+            "open_issues": 9,
             "owner": "BishopFox",
             "repo": "eyeballer",
-            "stars": 1290
+            "stars": 1290,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "pentesting-tools",
+              "python",
+              "security-tools",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -204,12 +282,35 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "⭐ ⭐  Use ML to classify flows and packets as benign or malicious. ⭐ ⭐ ",
+            "homepage": null,
             "id": 397341429,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-19T05:22:39Z",
+            "open_issues": 0,
             "owner": "deepfence",
             "repo": "FlowMeter",
-            "stars": 1193
+            "stars": 1193,
+            "topics": [
+              "awesome",
+              "data-science",
+              "data-science-projects",
+              "forensics-tools",
+              "hacktoberfest",
+              "infosectools",
+              "machine-learning",
+              "machine-learning-projects",
+              "machinelearning",
+              "machinelearningproject",
+              "network-analysis",
+              "network-security",
+              "packet-analyser",
+              "pcap",
+              "security",
+              "security-tools",
+              "tcpdump-like"
+            ]
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -220,12 +321,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A machine learning tool that ranks strings based on their relevance for malware analysis.",
+            "homepage": null,
             "id": 206565210,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-24T05:16:53Z",
+            "open_issues": 12,
             "owner": "mandiant",
             "repo": "stringsifter",
-            "stars": 762
+            "stars": 762,
+            "topics": [
+              "fireeye-data-science",
+              "fireeye-flare",
+              "learning-to-rank",
+              "machine-learning",
+              "malware-analysis",
+              "reverse-engineering",
+              "strings"
+            ]
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         },
@@ -236,12 +350,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mastering Machine Learning for Penetration Testing, published by Packt",
+            "homepage": null,
             "id": 131269249,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-30T09:45:29Z",
+            "open_issues": 2,
             "owner": "PacktPublishing",
             "repo": "Mastering-Machine-Learning-for-Penetration-Testing",
-            "stars": 371
+            "stars": 371,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
         }
@@ -250,15 +369,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:41:41.304Z",
+    "last_updated": "2026-08-29T04:13:29.311Z",
     "original_repository_info": {
       "archived": false,
+      "description": " :octocat: Machine Learning for Cyber Security",
+      "homepage": null,
       "id": 76955905,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2024-08-19T02:14:10Z",
+      "open_issues": 30,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9328
+      "stars": 9331,
+      "topics": [
+        "awesome-list",
+        "cyber-security",
+        "data-mining",
+        "machine-learning"
+      ]
     },
     "original_repository_sha": "8ff611d1cf4e93b57a58d16724a5df95a9410519",
     "enhanced_repository": "enhansome/enhansome-ml-for-cybersecurity",
