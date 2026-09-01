@@ -1,6 +1,6 @@
 # Awesome Machine Learning for Cyber Security with stars
 
-[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,340 | 🐛 30 | 📅 2024-08-19
+[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,343 | 🐛 30 | 📅 2024-08-19
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
@@ -20,7 +20,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Datasets
 
-* [Web Attack Payloads](https://github.com/foospidy/payloads) ⭐ 3,981 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
+* [Web Attack Payloads](https://github.com/foospidy/payloads) ⭐ 3,980 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 * [EMBER](https://github.com/endgameinc/ember) ⚠️ Archived
 * [WAF Malicious Queries Data Sets](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall) ⭐ 435 | 🐛 5 | 🌐 Python | 📅 2017-05-15
 * [Malware Training Data Sets](https://github.com/marcoramilli/MalwareTrainingSets) ⭐ 248 | 🐛 2 | 🌐 Python | 📅 2021-01-03
@@ -211,4 +211,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
