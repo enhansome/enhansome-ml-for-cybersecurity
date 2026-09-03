@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 3980,
+            "stars": 3979,
             "topics": [
               "appsec",
               "cybersecurity",
@@ -242,7 +242,7 @@
             "open_issues": 112,
             "owner": "13o-bbr-bbq",
             "repo": "machine_learning_security",
-            "stars": 2090,
+            "stars": 2091,
             "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
@@ -263,7 +263,7 @@
             "open_issues": 9,
             "owner": "BishopFox",
             "repo": "eyeballer",
-            "stars": 1290,
+            "stars": 1289,
             "topics": [
               "ai",
               "machine-learning",
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:25:08.504Z",
+    "last_updated": "2026-09-03T07:28:24.566Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -378,7 +378,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2024-08-19T02:14:10Z",
-      "open_issues": 30,
+      "open_issues": 29,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
       "stars": 9347,
