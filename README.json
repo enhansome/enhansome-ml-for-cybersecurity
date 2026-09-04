@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 3979,
+            "stars": 3978,
             "topics": [
               "appsec",
               "cybersecurity",
@@ -51,7 +51,7 @@
             "open_issues": 40,
             "owner": "elastic",
             "repo": "ember",
-            "stars": 1169,
+            "stars": 1170,
             "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T07:28:24.566Z",
+    "last_updated": "2026-09-04T07:30:42.396Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -378,10 +378,10 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2024-08-19T02:14:10Z",
-      "open_issues": 29,
+      "open_issues": 31,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9347,
+      "stars": 9351,
       "topics": [
         "awesome-list",
         "cyber-security",
