@@ -1,6 +1,6 @@
 # Awesome Machine Learning for Cyber Security with stars
 
-[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,351 | 🐛 31 | 📅 2024-08-19
+[<img src="https://github.com/jivoi/awesome-ml-for-cybersecurity/raw/master/cyber-ml-logo.png" align="right" width="100">](https://github.com/jivoi/awesome-ml-for-cybersecurity) ⭐ 9,355 | 🐛 31 | 📅 2024-08-19
 
 A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security.
 
@@ -195,7 +195,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 ## [↑](#table-of-contents) Miscellaneous
 
 * [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security) ⭐ 2,091 | 🐛 112 | 🌐 Python | 📅 2026-05-07
-* [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer) ⭐ 1,289 | 🐛 9 | 🌐 Python | 📅 2026-03-08
+* [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer) ⭐ 1,290 | 🐛 9 | 🌐 Python | 📅 2026-03-08
 * [Machine learning tool for classification of packets by looking at packet headers](https://github.com/deepfence/FlowMeter) ⚠️ Archived
 * [StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter) ⭐ 762 | 🐛 12 | 🌐 Python | 📅 2026-07-24
 * [Source code for Mastering Machine Learning for Penetration Testing](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing) ⭐ 371 | 🐛 2 | 🌐 Python | 📅 2023-01-30
@@ -211,4 +211,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

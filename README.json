@@ -263,7 +263,7 @@
             "open_issues": 9,
             "owner": "BishopFox",
             "repo": "eyeballer",
-            "stars": 1289,
+            "stars": 1290,
             "topics": [
               "ai",
               "machine-learning",
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T07:30:42.396Z",
+    "last_updated": "2026-09-05T07:11:43.039Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 31,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9351,
+      "stars": 9355,
       "topics": [
         "awesome-list",
         "cyber-security",
