@@ -194,7 +194,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 ## [↑](#table-of-contents) Miscellaneous
 
-* [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security) ⭐ 2,091 | 🐛 112 | 🌐 Python | 📅 2026-05-07
+* [Source code about machine learning and security](https://github.com/13o-bbr-bbq/machine_learning_security) ⭐ 2,092 | 🐛 112 | 🌐 Python | 📅 2026-05-07
 * [Convolutional neural network for analyzing pentest screenshots](https://github.com/BishopFox/eyeballer) ⭐ 1,290 | 🐛 9 | 🌐 Python | 📅 2026-03-08
 * [Machine learning tool for classification of packets by looking at packet headers](https://github.com/deepfence/FlowMeter) ⚠️ Archived
 * [StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis](https://github.com/fireeye/stringsifter) ⭐ 762 | 🐛 12 | 🌐 Python | 📅 2026-07-24
@@ -211,4 +211,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
