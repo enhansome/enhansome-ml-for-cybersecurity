@@ -51,7 +51,7 @@
             "open_issues": 40,
             "owner": "elastic",
             "repo": "ember",
-            "stars": 1170,
+            "stars": 1171,
             "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
@@ -242,7 +242,7 @@
             "open_issues": 112,
             "owner": "13o-bbr-bbq",
             "repo": "machine_learning_security",
-            "stars": 2093,
+            "stars": 2094,
             "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T09:05:33.619Z",
+    "last_updated": "2026-09-29T09:14:37.342Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 31,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9417,
+      "stars": 9422,
       "topics": [
         "awesome-list",
         "cyber-security",
