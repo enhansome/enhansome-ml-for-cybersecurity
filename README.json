@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Web Attack Payloads",
-          "description": null,
+          "description": "foospidy/payloads",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 3987,
+            "stars": 3986,
             "topics": [
               "appsec",
               "cybersecurity",
@@ -38,7 +38,7 @@
         {
           "node_type": "item",
           "title": "EMBER",
-          "description": null,
+          "description": "elastic/ember",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -59,7 +59,7 @@
         {
           "node_type": "item",
           "title": "WAF Malicious Queries Data Sets",
-          "description": null,
+          "description": "faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -80,7 +80,7 @@
         {
           "node_type": "item",
           "title": "Malware Training Data Sets",
-          "description": null,
+          "description": "marcoramilli/MalwareTrainingSets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -106,7 +106,7 @@
         {
           "node_type": "item",
           "title": "NSL-KDD Data Sets",
-          "description": null,
+          "description": "Jehuty4949/NSL_KDD",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -127,7 +127,7 @@
         {
           "node_type": "item",
           "title": "Aktaion Data Sets",
-          "description": null,
+          "description": "jzadeh/aktaion",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -148,7 +148,7 @@
         {
           "node_type": "item",
           "title": "Probing / Port Scan - Dataset",
-          "description": null,
+          "description": "gubertoli/ProbingDataset",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -175,7 +175,7 @@
         {
           "node_type": "item",
           "title": "Introduction To Artificial Intelligence For Security Professionals",
-          "description": null,
+          "description": "cylance/IntroductionToMachineLearningForSecurityPros",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -202,7 +202,7 @@
         {
           "node_type": "item",
           "title": "WebShells Detection by Machine Learning",
-          "description": null,
+          "description": "lcatro/WebShell-Detect-By-Machine-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -229,7 +229,7 @@
         {
           "node_type": "item",
           "title": "Source code about machine learning and security",
-          "description": null,
+          "description": "13o-bbr-bbq/machine_learning_security",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -250,7 +250,7 @@
         {
           "node_type": "item",
           "title": "Convolutional neural network for analyzing pentest screenshots",
-          "description": null,
+          "description": "BishopFox/eyeballer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -263,7 +263,7 @@
             "open_issues": 9,
             "owner": "BishopFox",
             "repo": "eyeballer",
-            "stars": 1293,
+            "stars": 1292,
             "topics": [
               "ai",
               "machine-learning",
@@ -278,7 +278,7 @@
         {
           "node_type": "item",
           "title": "Machine learning tool for classification of packets by looking at packet headers",
-          "description": null,
+          "description": "deepfence/FlowMeter",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -317,7 +317,7 @@
         {
           "node_type": "item",
           "title": "StringSifter - a machine learning tool that ranks strings based on their relevance for malware analysis",
-          "description": null,
+          "description": "mandiant/stringsifter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -346,7 +346,7 @@
         {
           "node_type": "item",
           "title": "Source code for Mastering Machine Learning for Penetration Testing",
-          "description": null,
+          "description": "PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:08:31.556Z",
+    "last_updated": "2026-10-03T04:56:36.897Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 31,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9430,
+      "stars": 9434,
       "topics": [
         "awesome-list",
         "cyber-security",
