@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 4000,
+            "stars": 4002,
             "topics": [
               "appsec",
               "cybersecurity",
@@ -263,7 +263,7 @@
             "open_issues": 9,
             "owner": "BishopFox",
             "repo": "eyeballer",
-            "stars": 1293,
+            "stars": 1294,
             "topics": [
               "ai",
               "machine-learning",
@@ -291,7 +291,7 @@
             "open_issues": 0,
             "owner": "deepfence",
             "repo": "FlowMeter",
-            "stars": 1196,
+            "stars": 1197,
             "topics": [
               "awesome",
               "data-science",
@@ -330,7 +330,7 @@
             "open_issues": 12,
             "owner": "mandiant",
             "repo": "stringsifter",
-            "stars": 766,
+            "stars": 767,
             "topics": [
               "fireeye-data-science",
               "fireeye-flare",
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T08:15:14.953Z",
+    "last_updated": "2026-10-27T08:28:47.622Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 30,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9513,
+      "stars": 9518,
       "topics": [
         "awesome-list",
         "cyber-security",
