@@ -263,7 +263,7 @@
             "open_issues": 9,
             "owner": "BishopFox",
             "repo": "eyeballer",
-            "stars": 1294,
+            "stars": 1293,
             "topics": [
               "ai",
               "machine-learning",
@@ -291,7 +291,7 @@
             "open_issues": 0,
             "owner": "deepfence",
             "repo": "FlowMeter",
-            "stars": 1197,
+            "stars": 1198,
             "topics": [
               "awesome",
               "data-science",
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T08:28:47.622Z",
+    "last_updated": "2026-10-28T09:06:48.342Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 30,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9518,
+      "stars": 9521,
       "topics": [
         "awesome-list",
         "cyber-security",
