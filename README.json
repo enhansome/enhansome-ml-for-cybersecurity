@@ -188,7 +188,7 @@
             "open_issues": 5,
             "owner": "cylance",
             "repo": "IntroductionToMachineLearningForSecurityPros",
-            "stars": 154,
+            "stars": 155,
             "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
@@ -242,7 +242,7 @@
             "open_issues": 112,
             "owner": "13o-bbr-bbq",
             "repo": "machine_learning_security",
-            "stars": 2096,
+            "stars": 2095,
             "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T10:07:19.477Z",
+    "last_updated": "2026-11-05T10:01:28.580Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 29,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9532,
+      "stars": 9533,
       "topics": [
         "awesome-list",
         "cyber-security",
