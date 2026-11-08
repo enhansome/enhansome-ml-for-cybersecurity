@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T09:24:03.174Z",
+    "last_updated": "2026-11-08T09:42:25.474Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 29,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9536,
+      "stars": 9539,
       "topics": [
         "awesome-list",
         "cyber-security",
