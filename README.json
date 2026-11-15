@@ -72,7 +72,7 @@
             "open_issues": 5,
             "owner": "faizann24",
             "repo": "Fwaf-Machine-Learning-driven-Web-Application-Firewall",
-            "stars": 435,
+            "stars": 434,
             "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T09:37:26.345Z",
+    "last_updated": "2026-11-15T10:07:39.957Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 31,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9553,
+      "stars": 9556,
       "topics": [
         "awesome-list",
         "cyber-security",

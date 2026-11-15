@@ -22,7 +22,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add tools or resour
 
 * [Web Attack Payloads](https://github.com/foospidy/payloads) ⭐ 4,008 | 🐛 4 | 🌐 Shell | 📅 2023-05-15
 * [EMBER](https://github.com/endgameinc/ember) ⚠️ Archived
-* [WAF Malicious Queries Data Sets](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall) ⭐ 435 | 🐛 5 | 🌐 Python | 📅 2017-05-15
+* [WAF Malicious Queries Data Sets](https://github.com/faizann24/Fwaf-Machine-Learning-driven-Web-Application-Firewall) ⭐ 434 | 🐛 5 | 🌐 Python | 📅 2017-05-15
 * [Malware Training Data Sets](https://github.com/marcoramilli/MalwareTrainingSets) ⭐ 247 | 🐛 2 | 🌐 Python | 📅 2021-01-03
 * [NSL-KDD Data Sets](https://github.com/defcom17/NSL_KDD) ⭐ 215 | 🐛 3 | 📅 2015-07-30
 * [Aktaion Data Sets](https://github.com/jzadeh/Aktaion/tree/master/data) ⭐ 143 | 🐛 0 | 🌐 Python | 📅 2019-03-26
@@ -211,4 +211,4 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
