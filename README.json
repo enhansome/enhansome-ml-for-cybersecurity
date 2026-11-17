@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 4007,
+            "stars": 4006,
             "topics": [
               "appsec",
               "cybersecurity",
@@ -330,7 +330,7 @@
             "open_issues": 12,
             "owner": "mandiant",
             "repo": "stringsifter",
-            "stars": 765,
+            "stars": 766,
             "topics": [
               "fireeye-data-science",
               "fireeye-flare",
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T10:20:35.217Z",
+    "last_updated": "2026-11-17T11:19:01.946Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 31,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9561,
+      "stars": 9563,
       "topics": [
         "awesome-list",
         "cyber-security",
