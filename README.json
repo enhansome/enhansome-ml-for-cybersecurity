@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "foospidy",
             "repo": "payloads",
-            "stars": 4007,
+            "stars": 4006,
             "topics": [
               "appsec",
               "cybersecurity",
@@ -51,7 +51,7 @@
             "open_issues": 40,
             "owner": "elastic",
             "repo": "ember",
-            "stars": 1168,
+            "stars": 1167,
             "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
@@ -242,7 +242,7 @@
             "open_issues": 112,
             "owner": "13o-bbr-bbq",
             "repo": "machine_learning_security",
-            "stars": 2095,
+            "stars": 2094,
             "topics": []
           },
           "first_seen": "2026-08-28T14:41:41.304Z"
@@ -263,7 +263,7 @@
             "open_issues": 9,
             "owner": "BishopFox",
             "repo": "eyeballer",
-            "stars": 1306,
+            "stars": 1305,
             "topics": [
               "ai",
               "machine-learning",
@@ -291,7 +291,7 @@
             "open_issues": 0,
             "owner": "deepfence",
             "repo": "FlowMeter",
-            "stars": 1197,
+            "stars": 1195,
             "topics": [
               "awesome",
               "data-science",
@@ -330,7 +330,7 @@
             "open_issues": 12,
             "owner": "mandiant",
             "repo": "stringsifter",
-            "stars": 767,
+            "stars": 766,
             "topics": [
               "fireeye-data-science",
               "fireeye-flare",
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T10:53:51.674Z",
+    "last_updated": "2026-11-20T10:42:36.166Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
