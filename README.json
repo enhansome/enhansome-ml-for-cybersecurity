@@ -330,7 +330,7 @@
             "open_issues": 12,
             "owner": "mandiant",
             "repo": "stringsifter",
-            "stars": 766,
+            "stars": 767,
             "topics": [
               "fireeye-data-science",
               "fireeye-flare",
@@ -369,7 +369,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T10:25:42.338Z",
+    "last_updated": "2026-11-22T10:29:03.407Z",
     "original_repository_info": {
       "archived": false,
       "description": " :octocat: Machine Learning for Cyber Security",
@@ -381,7 +381,7 @@
       "open_issues": 31,
       "owner": "jivoi",
       "repo": "awesome-ml-for-cybersecurity",
-      "stars": 9575,
+      "stars": 9578,
       "topics": [
         "awesome-list",
         "cyber-security",
